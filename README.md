@@ -14,6 +14,7 @@
 - https://workover.com.br/
 - https://www.freecodecamp.org/
 - https://web.dio.me/
+- https://www.codecademy.com/
 
 ### Sobre politica: 
 
@@ -27,8 +28,24 @@
 
 ## Cursos pagos tops de mercado:
 
-# Nivel god:
+### Nivel god:
 
 - https://www.coursera.org/
 - https://www.udemy.com/
-- 
+
+### Cursos tops mesmo com instrutor ótimo:
+
+- https://cursos.dankicode.com/
+- https://www.youtube.com/channel/UCP0pWKgxi8K4bvtb1XBEUaA
+- https://www.youtube.com/channel/UCdbMvobipjxi6gdr3L1PBrQ
+
+### Cursos muito top de marketing:
+
+- https://learn.rduniversity.com.br/
+
+## A cereja do bolo: (EAD De hogwarts ficcional)    
+
+- https://www.rpghogwarts.org/
+- Eu amo de core esa  plataforma do rpg hogwarts. Ela proporciona um experiencia unica e ainda da todo um suporte. Esta hamuito tempo no mercado e tem um curriculo topzero.
+
+
