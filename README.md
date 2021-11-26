@@ -26,6 +26,10 @@
 - https://cs50.harvard.edu/x/2021/
 - https://cs193p.sites.stanford.edu/
 
+### Inventando com python:
+
+- https://inventwithpython.com/invent4thed/
+
 ## Cursos pagos tops de mercado:
 
 ### Nivel god:
