@@ -19,6 +19,16 @@
 
 - https://saberes.senado.leg.br/course/index.php?categoryid=246
 
-## Em universidades renomadas:
+### Em universidades renomadas:
 
 - https://cs50.harvard.edu/games/2018/
+- https://cs50.harvard.edu/x/2021/
+- https://cs193p.sites.stanford.edu/
+
+## Cursos pagos tops de mercado:
+
+# Nivel god:
+
+- https://www.coursera.org/
+- https://www.udemy.com/
+- 
