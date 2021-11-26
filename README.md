@@ -46,6 +46,6 @@
 ## A cereja do bolo: (EAD De hogwarts ficcional)    
 
 - https://www.rpghogwarts.org/
-- Eu amo de core esa  plataforma do rpg hogwarts. Ela proporciona um experiencia unica e ainda da todo um suporte. Esta hamuito tempo no mercado e tem um curriculo topzero.
+- Eu amo de core essa  plataforma do rpg hogwarts. Ela proporciona um experiencia unica e ainda da todo um suporte. Esta ha muito tempo no mercado e tem um curriculo topzero.
 
 
