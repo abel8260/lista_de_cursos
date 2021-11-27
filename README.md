@@ -6,6 +6,7 @@
 
 ### Sobre tecnologia: 
 
+- https://www.programiz.com/
 - https://pt.khanacademy.org/
 - https://studio.code.org/courses
 - https://cursoslivres.ifms.edu.br/
