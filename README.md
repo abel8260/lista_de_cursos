@@ -6,6 +6,7 @@
 
 ### Sobre tecnologia: 
 
+- https://www.geeksforgeeks.org/
 - https://www.programiz.com/
 - https://pt.khanacademy.org/
 - https://studio.code.org/courses
